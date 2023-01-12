@@ -1,0 +1,11 @@
+C:\Users\student\Desktop\Экзамен\PictureViewer Сивунов\PictureViewer Сивунов\bin\Debug\PictureViewer Сивунов.exe.config
+C:\Users\student\Desktop\Экзамен\PictureViewer Сивунов\PictureViewer Сивунов\bin\Debug\PictureViewer Сивунов.exe
+C:\Users\student\Desktop\Экзамен\PictureViewer Сивунов\PictureViewer Сивунов\bin\Debug\PictureViewer Сивунов.pdb
+C:\Users\student\Desktop\Экзамен\PictureViewer Сивунов\PictureViewer Сивунов\obj\Debug\PictureViewer Сивунов.csproj.AssemblyReference.cache
+C:\Users\student\Desktop\Экзамен\PictureViewer Сивунов\PictureViewer Сивунов\obj\Debug\PictureViewer Сивунов.csproj.SuggestedBindingRedirects.cache
+C:\Users\student\Desktop\Экзамен\PictureViewer Сивунов\PictureViewer Сивунов\obj\Debug\PictureViewer_Сивунов.Form1.resources
+C:\Users\student\Desktop\Экзамен\PictureViewer Сивунов\PictureViewer Сивунов\obj\Debug\PictureViewer_Сивунов.Properties.Resources.resources
+C:\Users\student\Desktop\Экзамен\PictureViewer Сивунов\PictureViewer Сивунов\obj\Debug\PictureViewer Сивунов.csproj.GenerateResource.cache
+C:\Users\student\Desktop\Экзамен\PictureViewer Сивунов\PictureViewer Сивунов\obj\Debug\PictureViewer Сивунов.csproj.CoreCompileInputs.cache
+C:\Users\student\Desktop\Экзамен\PictureViewer Сивунов\PictureViewer Сивунов\obj\Debug\PictureViewer Сивунов.exe
+C:\Users\student\Desktop\Экзамен\PictureViewer Сивунов\PictureViewer Сивунов\obj\Debug\PictureViewer Сивунов.pdb
