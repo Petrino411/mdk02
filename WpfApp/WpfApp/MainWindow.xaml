@@ -1,0 +1,21 @@
+﻿<Window x:Class="WpfApp.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WpfApp"
+        mc:Ignorable="d"
+        Title="Congratulations" Height="450" Width="1000" WindowStartupLocation="CenterScreen" ResizeMode="NoResize">
+    <Grid>
+        <StackPanel Orientation="Horizontal" HorizontalAlignment="Center" VerticalAlignment="Center">
+            <local:RhombusControl Header="Новый Год" Description="С Новым годом" ColoredSource="/Assets/97973bb5bf0097378fb0860159ddbb0d.jpg">
+            </local:RhombusControl>
+            <local:RhombusControl Header="8 Марта" Description="С 8 марта" ColoredSource="/Assets/deti-sotrudnikov-centra-lider-pozdravili-zhenshchin-s-8-marta_16467272921638110247__2000x2000.jpg">
+            </local:RhombusControl>
+            <local:RhombusControl Header="Масленица" Description="С Масленицей" ColoredSource="/Assets/64ef3078-97ec-5dc1-838e-f44caf8b003c.png">
+            </local:RhombusControl>
+            <local:RhombusControl Header="День рождения" Description="C днем рождения" ColoredSource="/Assets/tortibuket001-2048x1536.jpg">
+            </local:RhombusControl>
+        </StackPanel>
+    </Grid>
+</Window>
